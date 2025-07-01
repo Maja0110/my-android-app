@@ -1,0 +1,2 @@
+# my-android-app
+TarotApp
